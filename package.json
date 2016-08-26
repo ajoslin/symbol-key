@@ -1,7 +1,7 @@
 {
   "name": "symbol-key",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Symbol or a string. Nothing else.",
   "license": "MIT",
   "repository": "ajoslin/symbol-key",
